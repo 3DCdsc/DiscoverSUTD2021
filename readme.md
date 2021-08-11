@@ -1,4 +1,4 @@
-##3DC: Introduction to the space of software engineering
+## 3DC: Introduction to the space of software engineering
 
 **Abstract**
 Learn more about software engineering and how participating in a fifth row enhances your SUTD experience. Talk to seniors from various backgrounds while they share about their interests and experiences.
