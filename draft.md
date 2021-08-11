@@ -26,11 +26,15 @@ Physical
   - Physical
   - 1 hour duriation
 - Purpose
-  - Explore the different fields of software engineering
+  - Explore the different fields of software engineering and how 3DC and SUTD can compliment it.
+
 - Programme Structure:
   - Introduction
-  - Explore different fields and how SUTD/3DC equips them with necessary skills
-  - Sharing of industry/internship experience
+  - Web development exploration
+    - What and how to learn to become a web dev
+    - Showcase a project
+    - Internship experience and takeaways
+  - Sharing of preparation for internships and overview of how production code is different
   - Q&A
     <span style="color:red">Point of improvement: Shall we have some kind of hands on?</span>.
 
